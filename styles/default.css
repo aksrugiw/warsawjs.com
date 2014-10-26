@@ -1,0 +1,163 @@
+/* Styles for whole page */
+/* --------------------- */
+
+body {
+    margin: 0;
+}
+
+#page {
+    width: 590px;
+    margin: 0 auto 100px;
+}
+
+/* Header */
+
+header {
+    margin-top: 60px;
+    height: 240px;
+}
+
+header > .logo {
+    width: 255px;
+    float: left;
+}
+
+header > .motto {
+    float: left;
+    width: 302px;
+    border-left: 4px solid #f7302f;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    font-size: 27px;
+    padding: 54px 0 44px 29px;
+    margin: 27px 0 0 0;
+    line-height: 34px;
+}
+
+/* Main section */
+
+main {
+    margin-top: 155px;
+    clear: both;
+    overflow: hidden;
+}
+
+/* Player */
+
+#player-wrapper {
+    margin: 0 0 11px 0;
+}
+
+#player-wrapper > h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 500;
+    color: #f7302f;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+
+#player {
+    width: 590px;
+    height: 360px;
+    background: #000;
+    position: relative;
+}
+
+#player > .play-button {
+    width: 135px;
+    height: 135px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/* Post list */
+
+#posts > ul {
+    list-style: none;
+}
+
+#posts > ul a {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    line-height: 34px;
+}
+
+/* Left column - social box */
+
+main > .socials {
+    width: 255px;
+    float: left;
+    margin-top: 33px;
+    text-align: center;
+}
+
+main > .socials > .master {
+    margin: 0 auto 27px;
+    width: 122px;
+    height: 79px;
+    display: block;
+}
+
+main > .socials > ul {
+    list-style: none;
+    float: left;
+    margin-top: 0;
+    margin-bottom: 105px;
+    padding: 0 0 0 30px;
+}
+
+main > .socials > ul li {
+    float: left;
+    margin: 0 5px;
+}
+
+main > .socials > .speaker-form {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+
+/* right column - article container */
+
+main > article {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    float: left;
+    padding: 0 0 0 33px;
+    margin-top: 28px;
+    width: 298px;
+}
+
+main > article > p {
+    margin: 0;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+main > article > p > em {
+    color: #f7302f;
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* Repeated buildings */
+
+.buildings {
+    position: absolute;
+    top: 300px;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    background: url("../images/panorama238x60.png") repeat-x 0 bottom;
+}
