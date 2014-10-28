@@ -3,38 +3,84 @@
 (function () {
     'use strict';
 
-    var APPLE_URL = 'http://www.y3ti.pl/streaming/warsawjs/iphone.html';
-    var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent);
-    var $button = document.querySelector('#player > .play-button');
+    var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent),
+        $qualityButtons = document.querySelectorAll('#player-wrapper .links a'),
+        videoUrlVersions = {
+            '1080p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_source/manifest.f4m?DVR',
+            '720p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_720p/manifest.f4m?DVR',
+            '360p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_360p/manifest.f4m?DVR'
+        };
 
-    function setupNormalPlayer() {
-        $f('player', 'http://releases.flowplayer.org/swf/flowplayer-3.2.11.swf', {
+    /**
+     *  Called for the first time is setup the player.
+     *  Any other call will start the playback.
+     */
+    function setupSWFPlayer(quality) {
+        quality = quality || '720p';
+
+        // Setup FlowPlayer
+        $f('player', '/scripts/vendors/flowplayer/flowplayer-3.2.18.swf', {
             clip: {
-                url: 'warsawjs',
-                live: true,
-                // configure clip to use influxis as our provider, it uses our rtmp plugin
-                provider: 'influxis'
+                url: videoUrlVersions[quality],
+                autoPlay: true,
+                urlResolvers: ['f4m'],
+                provider: 'httpstreaming',
+                scaling: 'fit'
             },
             // streaming plugins are configured under the plugins node
             plugins: {
-                // here is our rtpm plugin configuration
-                influxis: {
-                    url: 'flowplayer.rtmp-3.2.10.swf',
-                    // netConnectionUrl defines where the streams are found
-                    netConnectionUrl: 'rtmp://octa01.streaming.y3ti.pl:1935/live'
+                f4m: {
+                    url: "/scripts/vendors/flowplayer/flowplayer.f4m-3.2.10.swf",
+                    dvrBufferTime: 12,
+                    liveBufferTime: 12
+                },
+                httpstreaming: {
+                    url: "/scripts/vendors/flowplayer/flowplayer.httpstreaming-3.2.11.swf"
                 }
             }
         });
+
+        // Remove active class from quality buttons
+        Array.prototype.forEach.call($qualityButtons, function (button) {
+            button.className = '';
+        });
+
+        // Add active class
+        document.querySelector("a[data-quality='" + quality + "']").className = 'active';
     }
 
-    $button.addEventListener('click', function (evt) {
-        evt.preventDefault();
+    function setupHTMLPlayer() {
+        var url = 'http://octa01.streaming.y3ti.pl:1935/dvr/warsawjs/playlist.m3u8?DVR',
+            $video = document.createElement('video'),
+            $wrapper = document.querySelector('#player-wrapper');
 
+        $video.setAttribute('controls', 'true');
+        $video.setAttribute('src', url);
+        $video.setAttribute('id', 'player');
+        $wrapper.innerHTML = '';
+        $wrapper.appendChild($video);
+    }
+
+    function setupQualityLinks() {
+        Array.prototype.forEach.call($qualityButtons, function (button) {
+            button.addEventListener('click', function (evt) {
+                var quality = button.dataset.quality;
+
+                evt.preventDefault();
+                setupSWFPlayer(quality);
+            });
+        });
+    }
+
+    function setupPlayer() {
         if (isAppleDevice) {
-            location.href = APPLE_URL;
+            setupHTMLPlayer();
         } else {
-            setupNormalPlayer();
+            setupQualityLinks();
+            setupSWFPlayer();
         }
-    });
+    }
 
+    document.addEventListener('DOMContentLoaded', setupPlayer);
 }());
+
