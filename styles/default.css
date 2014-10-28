@@ -93,6 +93,10 @@ main {
     font-weight: 400;
 }
 
+#player-wrapper .links a.active {
+  color: black;
+}
+
 /* Post list */
 
 #posts > ul {

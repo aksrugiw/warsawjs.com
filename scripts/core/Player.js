@@ -38,6 +38,15 @@
                 }
             }
         });
+
+
+        // Remove active class from quality buttons
+        [].forEach.call($qualityButtons, function (button) {
+            button.className = '';
+        });
+
+        // Add active class
+        document.querySelector("a[data-quality='"+quality+"']").className = 'active';
     }
 
     function setupHTMLPlayer() {
