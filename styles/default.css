@@ -83,7 +83,7 @@ main {
 #player-wrapper .links {
     margin-top: 5px;
     text-align: right;
-    font-family: "Fira Sans";
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
 }
 
@@ -94,7 +94,7 @@ main {
 }
 
 #player-wrapper .links a.active {
-  color: black;
+    color: black;
 }
 
 /* Post list */

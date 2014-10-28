@@ -6,18 +6,19 @@
     var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent),
         $qualityButtons = document.querySelectorAll('#player-wrapper .links a'),
         videoUrlVersions = {
-          '1080p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_source/manifest.f4m?DVR',
-          '720p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_720p/manifest.f4m?DVR',
-          '360p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_360p/manifest.f4m?DVR'
+            '1080p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_source/manifest.f4m?DVR',
+            '720p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_720p/manifest.f4m?DVR',
+            '360p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_360p/manifest.f4m?DVR'
         };
 
-    /*
+    /**
      *  Called for the first time is setup the player.
      *  Any other call will start the playback.
      */
     function setupSWFPlayer(quality) {
-        quality = quality || '1080p';
+        quality = quality || '720p';
 
+        // Setup FlowPlayer
         $f('player', '/scripts/vendors/flowplayer/flowplayer-3.2.18.swf', {
             clip: {
                 url: videoUrlVersions[quality],
@@ -39,14 +40,13 @@
             }
         });
 
-
         // Remove active class from quality buttons
-        [].forEach.call($qualityButtons, function (button) {
+        Array.prototype.forEach.call($qualityButtons, function (button) {
             button.className = '';
         });
 
         // Add active class
-        document.querySelector("a[data-quality='"+quality+"']").className = 'active';
+        document.querySelector("a[data-quality='" + quality + "']").className = 'active';
     }
 
     function setupHTMLPlayer() {
@@ -54,7 +54,7 @@
             $video = document.createElement('video'),
             $wrapper = document.querySelector('#player-wrapper');
 
-        $video.setAttribute('controls', true);
+        $video.setAttribute('controls', 'true');
         $video.setAttribute('src', url);
         $video.setAttribute('id', 'player');
         $wrapper.innerHTML = '';
@@ -62,7 +62,7 @@
     }
 
     function setupQualityLinks() {
-        [].forEach.call($qualityButtons, function (button) {
+        Array.prototype.forEach.call($qualityButtons, function (button) {
             button.addEventListener('click', function (evt) {
                 var quality = button.dataset.quality;
 
@@ -70,7 +70,7 @@
                 setupSWFPlayer(quality);
             });
         });
-    };
+    }
 
     function setupPlayer() {
         if (isAppleDevice) {
