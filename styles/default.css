@@ -25,6 +25,7 @@ header > .logo {
 header > .motto {
     float: left;
     width: 302px;
+    height: 102px;
     border-left: 4px solid #f7302f;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
