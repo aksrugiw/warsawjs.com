@@ -1,2 +1,6 @@
+# addon plugins
+gems:
+  - jekyll-redirect-from
+
 # which type of links.
 permalink: date
