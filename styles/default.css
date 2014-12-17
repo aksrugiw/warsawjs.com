@@ -10,6 +10,12 @@ body {
     margin: 0 auto 100px;
 }
 
+@media (min-width: 240px) and (max-width: 590px) {
+    #page {
+        width: auto;
+    }
+}
+
 /* Header */
 
 header {
@@ -17,9 +23,23 @@ header {
     height: 240px;
 }
 
+@media (min-width: 240px) and (max-width: 590px) {
+    header {
+        margin-top: 0;
+        height: 100%;
+    }
+}
+
 header > .logo {
     width: 255px;
     float: left;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    header > .logo {
+        float: none;
+        margin: 0 auto;
+    }
 }
 
 header > .motto {
@@ -33,6 +53,15 @@ header > .motto {
     padding: 54px 0 44px 29px;
     margin: 27px 0 0 0;
     line-height: 34px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    header > .motto {
+        float: none;
+        width: auto;
+        border-top: 4px solid #f7302f;
+        border-left: none;
+    }
 }
 
 /* Main section */
@@ -63,6 +92,12 @@ main {
     height: 360px;
     background: #000;
     position: relative;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    #player {
+        width: auto;
+    }
 }
 
 #player video {
@@ -152,6 +187,13 @@ main > .socials > .speaker-form {
     font-size: 20px;
 }
 
+@media (min-width: 240px) and (max-width: 590px) {
+    main > .socials {
+        float: none;
+        margin: 33px auto 0;
+    }
+}
+
 /* right column - article container */
 
 main > article {
@@ -161,6 +203,13 @@ main > article {
     padding: 0 0 0 33px;
     margin-top: 28px;
     width: 298px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    main > article {
+        float: none;
+        width: auto;
+    }
 }
 
 main > article > p {
@@ -184,4 +233,10 @@ main > article > p > em {
     width: 100%;
     height: 120px;
     background: url("../images/panorama238x60.png") repeat-x 0 bottom;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    .buildings {
+        top: 450px;
+    }
 }
