@@ -6,9 +6,9 @@
     var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent),
         $qualityButtons = document.querySelectorAll('#player-wrapper .links a'),
         videoUrlVersions = {
-            '1080p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_source/manifest.f4m?DVR',
-            '720p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_720p/manifest.f4m?DVR',
-            '360p': 'http://octa01.streaming.y3ti.pl:1935/dvr/mp4:warsawjs_360p/manifest.f4m?DVR'
+            '1080p': 'http://94.23.213.125:1935/live/mp4:warsawjs_source/manifest.f4m?DVR',
+            '720p': 'http://94.23.213.125:1935/live/mp4:warsawjs_720p/manifest.f4m?DVR',
+            '360p': 'http://94.23.213.125:1935/live/mp4:warsawjs_360p/manifest.f4m?DVR'
         };
 
     /**
@@ -50,7 +50,7 @@
     }
 
     function setupHTMLPlayer() {
-        var url = 'http://octa01.streaming.y3ti.pl:1935/dvr/warsawjs/playlist.m3u8?DVR',
+        var url = 'http://94.23.213.125:1935/live/warsawjs/playlist.m3u8?DVR',
             $video = document.createElement('video'),
             $wrapper = document.querySelector('#player-wrapper');
 
