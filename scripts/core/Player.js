@@ -19,7 +19,7 @@
         quality = quality || '720p';
 
         // Setup FlowPlayer
-        $f('player', '/scripts/vendors/flowplayer/flowplayer-3.2.18.swf', {
+        $f('player', '/scripts/vendor/flowplayer/flowplayer-3.2.18.swf', {
             clip: {
                 url: videoUrlVersions[quality],
                 autoPlay: true,
@@ -30,12 +30,12 @@
             // streaming plugins are configured under the plugins node
             plugins: {
                 f4m: {
-                    url: "/scripts/vendors/flowplayer/flowplayer.f4m-3.2.10.swf",
+                    url: "/scripts/vendor/flowplayer/flowplayer.f4m-3.2.10.swf",
                     dvrBufferTime: 12,
                     liveBufferTime: 12
                 },
                 httpstreaming: {
-                    url: "/scripts/vendors/flowplayer/flowplayer.httpstreaming-3.2.11.swf"
+                    url: "/scripts/vendor/flowplayer/flowplayer.httpstreaming-3.2.11.swf"
                 }
             }
         });
