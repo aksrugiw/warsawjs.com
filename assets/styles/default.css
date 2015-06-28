@@ -7,7 +7,7 @@ body {
 
 #page {
     width: 590px;
-    margin: 0 auto 100px;
+    margin: 0 auto 50px;
 }
 
 @media (min-width: 240px) and (max-width: 590px) {
@@ -256,4 +256,18 @@ main > blockquote > p > em {
     .buildings {
         top: 450px;
     }
+}
+
+/* Footer */
+footer {
+    margin: 100px 0 0 0;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+}
+
+footer > p > a {
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
 }
