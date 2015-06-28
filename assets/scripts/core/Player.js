@@ -3,13 +3,13 @@
 (function () {
     'use strict';
 
-    var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent),
-        $qualityButtons = document.querySelectorAll('#player-wrapper .links a'),
-        videoUrlVersions = {
-            '1080p': 'http://94.23.213.125:1935/live/mp4:warsawjs_source/manifest.f4m?DVR',
-            '720p': 'http://94.23.213.125:1935/live/mp4:warsawjs_720p/manifest.f4m?DVR',
-            '360p': 'http://94.23.213.125:1935/live/mp4:warsawjs_360p/manifest.f4m?DVR'
-        };
+    var isAppleDevice = (/iphone|ipod|ipad/i).test(navigator.userAgent);
+    var $qualityButtons = document.querySelectorAll('#player-wrapper .links a');
+    var videoUrlVersions = {
+        '1080p': 'http://94.23.213.125:1935/live/mp4:warsawjs_source/manifest.f4m?DVR',
+        '720p': 'http://94.23.213.125:1935/live/mp4:warsawjs_720p/manifest.f4m?DVR',
+        '360p': 'http://94.23.213.125:1935/live/mp4:warsawjs_360p/manifest.f4m?DVR'
+    };
 
     /**
      *  Called for the first time is setup the player.
@@ -19,7 +19,7 @@
         quality = quality || '720p';
 
         // Setup FlowPlayer
-        $f('player', '/scripts/vendor/flowplayer/flowplayer-3.2.18.swf', {
+        $f('player', '/assets/scripts/vendor/flowplayer/flowplayer-3.2.18.swf', {
             clip: {
                 url: videoUrlVersions[quality],
                 autoPlay: true,
@@ -30,12 +30,12 @@
             // streaming plugins are configured under the plugins node
             plugins: {
                 f4m: {
-                    url: "/scripts/vendor/flowplayer/flowplayer.f4m-3.2.10.swf",
+                    url: "/assets/scripts/vendor/flowplayer/flowplayer.f4m-3.2.10.swf",
                     dvrBufferTime: 12,
                     liveBufferTime: 12
                 },
                 httpstreaming: {
-                    url: "/scripts/vendor/flowplayer/flowplayer.httpstreaming-3.2.11.swf"
+                    url: "/assets/scripts/vendor/flowplayer/flowplayer.httpstreaming-3.2.11.swf"
                 }
             }
         });
@@ -50,9 +50,9 @@
     }
 
     function setupHTMLPlayer() {
-        var url = 'http://94.23.213.125:1935/live/warsawjs/playlist.m3u8?DVR',
-            $video = document.createElement('video'),
-            $wrapper = document.querySelector('#player-wrapper');
+        var url = 'http://94.23.213.125:1935/live/warsawjs/playlist.m3u8?DVR';
+        var $video = document.createElement('video');
+        var $wrapper = document.querySelector('#player-wrapper');
 
         $video.setAttribute('controls', 'true');
         $video.setAttribute('src', url);
@@ -64,9 +64,9 @@
     function setupQualityLinks() {
         Array.prototype.forEach.call($qualityButtons, function (button) {
             button.addEventListener('click', function (evt) {
-                var quality = button.dataset.quality;
-
                 evt.preventDefault();
+
+                var quality = button.dataset.quality;
                 setupSWFPlayer(quality);
             });
         });
@@ -83,4 +83,3 @@
 
     document.addEventListener('DOMContentLoaded', setupPlayer);
 }());
-

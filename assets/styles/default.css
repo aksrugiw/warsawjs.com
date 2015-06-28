@@ -135,18 +135,35 @@ main {
 
 /* Post list */
 
+#posts ul {
+    list-style: circle;
+    margin: 0;
+}
+
 #posts > ul {
-    list-style: none;
     padding: 0;
 }
 
-#posts > ul a {
+#posts h3 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+#posts ul li a {
     font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
     color: #2034f4;
     text-decoration: none;
     border-bottom: 1px solid;
-    line-height: 40px;
+    line-height: 50px;
+    height: 40px;
+    display: block;
+
+    white-space: nowrap;
+    /*width: 100%;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 /* Left column - social box */
@@ -194,31 +211,31 @@ main > .socials > .speaker-form {
     }
 }
 
-/* right column - article container */
+/* right column - blockquote container */
 
-main > article {
+main > blockquote {
     font-family: 'Fira Sans', sans-serif;
     font-size: 18px;
     float: left;
     padding: 0 0 0 33px;
-    margin-top: 28px;
+    margin: 28px 0 0 0;
     width: 298px;
 }
 
 @media (min-width: 240px) and (max-width: 590px) {
-    main > article {
+    main > blockquote {
         float: none;
         width: auto;
     }
 }
 
-main > article > p {
+main > blockquote > p {
     margin: 0;
     font-weight: 300;
     line-height: 27px;
 }
 
-main > article > p > em {
+main > blockquote > p > em {
     color: #f7302f;
     font-style: normal;
     font-weight: 500;

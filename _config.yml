@@ -3,4 +3,4 @@ gems:
   - jekyll-redirect-from
 
 # which type of links.
-permalink: date
+permalink: none
