@@ -88,10 +88,16 @@ main {
 }
 
 #player {
+    color: #fff;
+    background: #000;
     width: 590px;
     height: 360px;
-    background: #000;
     position: relative;
+}
+
+#player a {
+    color: #F7302F;
+    text-decoration: none;
 }
 
 @media (min-width: 240px) and (max-width: 590px) {
