@@ -1,6 +1,10 @@
 /* Styles for whole page */
 /* --------------------- */
 
+html {
+    background-color: #fff;
+}
+
 body {
     margin: 0;
 }
