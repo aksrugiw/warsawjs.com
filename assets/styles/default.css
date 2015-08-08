@@ -154,6 +154,12 @@ main {
     padding: 0;
 }
 
+@media (min-width: 240px) and (max-width: 590px) {
+    #posts ul {
+        padding: 0 5px;
+    }
+}
+
 #posts h3 {
     font-family: 'Fira Sans', sans-serif;
     font-weight: 300;
