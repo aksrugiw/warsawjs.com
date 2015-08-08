@@ -146,7 +146,7 @@ main {
 /* Post list */
 
 #posts ul {
-    list-style: circle;
+    list-style: none;
     margin: 0;
 }
 
