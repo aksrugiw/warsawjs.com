@@ -7,7 +7,7 @@ rooturl: http://warsawjs.com
     {% for post in site.posts %}
         <url>
             <loc>{{ page.rooturl }}{{ post.url }}</loc>
-            <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+            <lastmod>{{ post.date | date: '%Y-%m-%d' }}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
