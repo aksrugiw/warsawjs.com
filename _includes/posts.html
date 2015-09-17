@@ -3,7 +3,7 @@
         {% for category in site.categories  reversed %}
             <li>
                 <h3>
-                    <img src="/assets/images/favicon16x16.png" alt=""/> {{ category | first | replace: 'event', 'Event' | replace:'-',' #'}}
+                    <img src="/assets/images/favicon16x16.png" alt=""/> {{ category | first | replace:'-',' #' | capitalize }}
                 </h3>
                 <ul>
                     {% for posts in category %}
