@@ -76,6 +76,12 @@ main {
     overflow: hidden;
 }
 
+/* Twitter timeline */
+
+.twitter-timeline {
+    margin-left: 35px;
+}
+
 /* Player */
 
 #player-wrapper {
