@@ -1,0 +1,29 @@
+/* right column - blockquote container */
+
+main > blockquote {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    float: left;
+    padding: 0 0 0 33px;
+    margin: 28px 0 0 0;
+    width: 298px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    main > blockquote {
+        float: none;
+        width: auto;
+    }
+}
+
+main > blockquote > p {
+    margin: 0;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+main > blockquote > p > em {
+    color: #f7302f;
+    font-style: normal;
+    font-weight: 500;
+}

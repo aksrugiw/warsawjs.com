@@ -1,0 +1,47 @@
+/* Header */
+
+header {
+    margin-top: 60px;
+    height: 240px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    header {
+        margin-top: 0;
+        height: 100%;
+    }
+}
+
+header > .logo {
+    width: 255px;
+    float: left;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    header > .logo {
+        float: none;
+        margin: 0 auto;
+    }
+}
+
+header > .motto {
+    float: left;
+    width: 302px;
+    height: 102px;
+    border-left: 4px solid #f7302f;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    font-size: 27px;
+    padding: 54px 0 44px 29px;
+    margin: 27px 0 0 0;
+    line-height: 34px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    header > .motto {
+        float: none;
+        width: auto;
+        border-top: 4px solid #f7302f;
+        border-left: none;
+    }
+}

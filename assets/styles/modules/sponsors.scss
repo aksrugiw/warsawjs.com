@@ -1,0 +1,46 @@
+#sponsors {
+    position: absolute;
+    left: 50px;
+    top: 450px;
+    width: 200px;
+    font-family: 'Fira Sans', sans-serif;
+
+    h3 {
+        color: #f7302f;
+        border-bottom: 1px solid;
+        font-weight: 300;
+    }
+
+    ul {
+        padding: 0;
+
+        li {
+            border: 1px dashed #dddddd;
+            list-style: none;
+            margin: 30px 0;
+
+            a {
+                display: block;
+                text-align: center;
+                color: #000;
+                text-decoration: none;
+
+                img {
+                    width: 100%;
+                }
+
+                span {
+                    font-weight: 300;
+                    margin-top: 5px;
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 1024px) {
+    #sponsors {
+        display: none;
+    }
+}

@@ -1,0 +1,20 @@
+/* Styles for whole page */
+
+html {
+    background-color: #fff;
+}
+
+body {
+    margin: 0;
+}
+
+#page {
+    width: 590px;
+    margin: 0 auto 50px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    #page {
+        width: auto;
+    }
+}

@@ -1,0 +1,44 @@
+/* Left column - social box */
+
+main > .socials {
+    width: 255px;
+    float: left;
+    margin-top: 33px;
+    text-align: center;
+}
+
+main > .socials > .master {
+    margin: 0 auto 27px;
+    width: 122px;
+    height: 79px;
+    display: block;
+}
+
+main > .socials > ul {
+    list-style: none;
+    float: left;
+    margin-top: 0;
+    margin-bottom: 105px;
+    padding: 0 0 0 30px;
+}
+
+main > .socials > ul li {
+    float: left;
+    margin: 0 5px;
+}
+
+main > .socials > .speaker-form {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    main > .socials {
+        float: none;
+        margin: 33px auto 0;
+    }
+}

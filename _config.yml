@@ -4,3 +4,8 @@ gems:
 
 # which type of links.
 permalink: none
+
+# sass settings
+sass:
+  sass_dir: assets/styles/
+  style: compressed

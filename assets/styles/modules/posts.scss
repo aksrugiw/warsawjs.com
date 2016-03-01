@@ -1,0 +1,38 @@
+/* Posts */
+
+#posts ul {
+    list-style: none;
+    margin: 0;
+}
+
+#posts > ul {
+    padding: 0;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    #posts ul {
+        padding: 0 5px;
+    }
+}
+
+#posts h3 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+#posts ul li a {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    line-height: 50px;
+    height: 40px;
+    display: block;
+
+    white-space: nowrap;
+    /*width: 100%;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

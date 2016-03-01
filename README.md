@@ -1,8 +1,8 @@
 # WarsawJS
 
-Use GitHub pages.
+> Use GitHub pages to host homepage: http://warsawjs.com/
 
-### How to build
+## How to build
 
 You must pre-install `ruby` and `rubygems`.
 
@@ -14,10 +14,10 @@ $ bundle install
 $ jekyll serve
 ```
 
-### Launch
+## Launch
 
 Open in browser: http://0.0.0.0:4000/
 
-### Help
+## Help
 
 http://blog.tersmitten.nl/slugify/ - build slug URL by presentation name
