@@ -1,0 +1,52 @@
+#hosts {
+    padding: 70px 0 0 0;
+    clear: both;
+    font-family: 'Fira Sans', sans-serif;
+
+    h3 {
+        color: #3e3e3e;
+        font-weight: 300;
+        // border-bottom: 1px solid;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-weight: 300;
+
+        li {
+            display: inline-block;
+            vertical-align: top;
+            width: 185px;
+            margin-right: 13px;
+            margin-bottom: 15px;
+
+            &:last-child {
+                margin-right: 0;
+            }
+
+            a {
+                text-decoration: none;
+                color: #000;
+                position: relative;
+
+                img {
+                    width: 100%;
+                }
+
+                span {
+                    background: rgba(255, 255, 255, 0.5);
+                    border-radius: 3px;
+                    padding: 3px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 590px) {
+    #hosts {
+        text-align: center;
+    }
+}
