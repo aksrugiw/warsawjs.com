@@ -5,7 +5,7 @@
 ## Wallpapers
 
 * [javascript-2590x1517.jpg](./wallpapers/javascript-2590x1517.jpg)
-* [logo-dark-1920x1080.png](./wallpapers/logo-dark-1920x1080.png)
+* [logo-dark-1920x1080.jpg](./wallpapers/logo-dark-1920x1080.jpg)
 * [logo-white-1920x1080.jpg](./wallpapers/logo-white-1920x1080.jpg)
 
 ## How to build
