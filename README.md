@@ -4,9 +4,9 @@
 
 ## Wallpapers
 
-* [javascript-2590x1517.jpg](./wallpapers/javascript-2590x1517.jpg)
-* [logo-dark-1920x1080.jpg](./wallpapers/logo-dark-1920x1080.jpg)
-* [logo-white-1920x1080.jpg](./wallpapers/logo-white-1920x1080.jpg)
+* [javascript-2590x1517.jpg](http://warsawjs.com/wallpapers/javascript-2590x1517.jpg)
+* [warsawjs-black-1920x1080.jpg](http://warsawjs.com/wallpapers/warsawjs-black-1920x1080.jpg)
+* [warsawjs-white-1920x1080.jpg](http://warsawjs.com/wallpapers/warsawjs-white-1920x1080.jpg)
 
 ## How to build
 
