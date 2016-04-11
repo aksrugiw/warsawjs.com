@@ -2,6 +2,12 @@
 
 > Use GitHub pages to host homepage: http://warsawjs.com/
 
+## Wallpapers
+
+* ![](./wallpapers/javascript-2590x1517.jpg)
+* ![](./wallpapers/logo-dark-1920x1080.png)
+* ![](./wallpapers/logo-white-1920x1080.jpg)
+
 ## How to build
 
 You must pre-install `ruby` and `rubygems`.
