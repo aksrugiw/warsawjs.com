@@ -1,8 +1,7 @@
-/* Header */
-
 header {
-    margin-top: 60px;
+    margin-top: 87px;
     height: 240px;
+    margin-bottom: 125px;
 }
 
 @media (min-width: 240px) and (max-width: 590px) {
@@ -15,6 +14,7 @@ header {
 header > .logo {
     width: 255px;
     float: left;
+    margin: 0;
 }
 
 @media (min-width: 240px) and (max-width: 590px) {
@@ -33,7 +33,7 @@ header > .motto {
     font-weight: 300;
     font-size: 27px;
     padding: 54px 0 44px 29px;
-    margin: 27px 0 0 0;
+    margin: 0;
     line-height: 34px;
 }
 
@@ -43,5 +43,20 @@ header > .motto {
         width: auto;
         border-top: 4px solid #f7302f;
         border-left: none;
+    }
+}
+
+.buildings {
+    position: absolute;
+    top: 360px;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: url("../images/backgrounds/panorama-238x60.png") repeat-x 0 bottom;
+}
+
+@media (min-width: 240px) and (max-width: 590px) {
+    .buildings {
+        top: 450px;
     }
 }

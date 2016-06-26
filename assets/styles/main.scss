@@ -1,15 +1,19 @@
 ---
 ---
 
-@import "modules/page";
-@import "modules/header";
-@import "modules/main";
-@import "modules/footer";
+@import "common/reset";
+@import "common/global";
+
+@import "layouts/default";
+@import "layouts/lp";
+
+@import "modules/header-tag";
+@import "modules/footer-tag";
 
 @import "modules/left-box";
 @import "modules/right-box";
-@import "modules/buildings";
 
+@import "modules/content";
 @import "modules/player";
 @import "modules/posts";
 @import "modules/twitter-timeline";

@@ -1,0 +1,17 @@
+body.layout-lp {
+    #page {
+        width: 800px;
+        margin: 0 auto 50px;
+
+        main {
+            clear: both;
+            overflow: hidden;
+        }
+    }
+
+    @media (min-width: 240px) and (max-width: 590px) {
+        #page {
+            width: auto;
+        }
+    }
+}
