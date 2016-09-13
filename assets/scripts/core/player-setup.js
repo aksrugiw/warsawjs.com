@@ -5,14 +5,25 @@
     var PLAYER_CONTAINER_SELECTOR = "#player";
     var PLAYER_WIDTH = 590;
 
+    // Check if userAgent is mobile device.
+    var isMobile = (/mobile/i).test(navigator.userAgent);
+
     function setupPlayer() {
         new Clappr.Player({
             source: SOURCE,
             parentId: PLAYER_CONTAINER_SELECTOR,
             hideVolumeBar: true,
             disableVideoTagContextMenu: true,
-            width: PLAYER_WIDTH
+            width: getWidth()
         });
+    }
+
+    function getWidth() {
+        if (isMobile) {
+            return screen.width;
+        }
+
+        return PLAYER_WIDTH;
     }
 
     document.addEventListener('DOMContentLoaded', setupPlayer);
