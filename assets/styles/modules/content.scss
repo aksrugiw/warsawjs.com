@@ -3,9 +3,7 @@ article {
     font-weight: 300;
 
     a {
-        color: #2034f4;
-        text-decoration: none;
-        border-bottom: 1px solid;
+        @include simple-link();
     }
 }
 

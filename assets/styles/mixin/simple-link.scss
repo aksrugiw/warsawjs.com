@@ -1,0 +1,10 @@
+@mixin simple-link() {
+    color: #2034f4;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    transition: 0.3s all;
+
+    &:hover {
+        color: cornflowerblue;
+    }
+}

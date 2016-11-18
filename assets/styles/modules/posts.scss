@@ -22,9 +22,7 @@
 #posts ul li a {
     font-family: 'Fira Sans', Arial, sans-serif;
     font-weight: 300;
-    color: #2034f4;
-    text-decoration: none;
-    border-bottom: 1px solid;
+    @include simple-link();
     line-height: 50px;
     height: 40px;
     display: block;
