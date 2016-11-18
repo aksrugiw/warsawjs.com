@@ -4,7 +4,7 @@
     font-family: 'Fira Sans', Arial, sans-serif;
 
     h3 {
-        color: #3e3e3e;
+        color: #f7302f;
         font-weight: 300;
         // border-bottom: 1px solid;
     }
@@ -27,9 +27,11 @@
             }
 
             a {
-                text-decoration: none;
+                text-align: center;
                 color: #000;
+                text-decoration: none;
                 position: relative;
+                display: inline-block;
 
                 img {
                     width: 100%;
@@ -39,6 +41,8 @@
                     background: rgba(255, 255, 255, 0.5);
                     border-radius: 3px;
                     padding: 3px;
+
+                    @include simple-link();
                 }
             }
         }
