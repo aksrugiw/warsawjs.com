@@ -1,12 +1,12 @@
 # WarsawJS
 
-> Use GitHub pages to host homepage: http://warsawjs.com/
+> Use GitHub pages to host homepage: https://warsawjs.com/
 
 ## Wallpapers
 
-* [javascript-2590x1517.jpg](http://warsawjs.com/wallpapers/javascript-2590x1517.jpg)
-* [warsawjs-black-1920x1080.jpg](http://warsawjs.com/wallpapers/warsawjs-black-1920x1080.jpg)
-* [warsawjs-white-1920x1080.jpg](http://warsawjs.com/wallpapers/warsawjs-white-1920x1080.jpg)
+* [javascript-2590x1517.jpg](https://warsawjs.com/wallpapers/javascript-2590x1517.jpg)
+* [warsawjs-black-1920x1080.jpg](https://warsawjs.com/wallpapers/warsawjs-black-1920x1080.jpg)
+* [warsawjs-white-1920x1080.jpg](https://warsawjs.com/wallpapers/warsawjs-white-1920x1080.jpg)
 
 ## How to build
 
@@ -26,4 +26,4 @@ Open in browser: http://0.0.0.0:4000/
 
 ## Help
 
-http://blog.tersmitten.nl/slugify/ - build slug URL by presentation name
+https://blog.tersmitten.nl/slugify/ - build slug URL by presentation name
