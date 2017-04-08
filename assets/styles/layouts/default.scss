@@ -14,4 +14,11 @@ body.layout-default {
             width: auto;
         }
     }
+
+    #calendar {
+        margin-top: 10px;
+        @media (max-width: 1200px) {
+            margin-top: 0px;
+        }
+    }
 }
