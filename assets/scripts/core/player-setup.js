@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    var SOURCE = "http://srv01.whitestream.pl:1935/live/mp4:warsawjs_source/manifest.m3u8?DVR";
+    var SOURCE = "https://srv01.whitestream.pl:1935/live/mp4:warsawjs_source/manifest.m3u8?DVR";
     var PLAYER_CONTAINER_SELECTOR = "#player";
     var PLAYER_WIDTH = 590;
 
