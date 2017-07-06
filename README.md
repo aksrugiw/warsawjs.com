@@ -26,4 +26,4 @@ Open in browser: http://0.0.0.0:4000/
 
 ## Help
 
-https://blog.tersmitten.nl/slugify/ - build slug URL by presentation name
+* https://blog.tersmitten.nl/slugify/ - build slug URL by presentation name
