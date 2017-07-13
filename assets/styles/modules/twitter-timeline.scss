@@ -3,6 +3,13 @@
     right: 50px;
     top: 390px;
     width: 250px;
+
+    h3 {
+        color: #f7302f;
+        font-weight: 300;
+        border-bottom: 1px solid;
+        text-align: right;
+    }
 }
 
 @media (max-width: 1200px) {

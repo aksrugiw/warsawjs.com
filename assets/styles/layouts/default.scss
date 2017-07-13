@@ -14,16 +14,4 @@ body.layout-default {
             width: auto;
         }
     }
-
-    #calendar {
-        text-align: center;
-        margin-top: 10px;
-        a {
-            color: #f7302f;
-            text-decoration: none;
-        }
-        @media (max-width: 1200px) {
-            margin-top: 0px;
-        }
-    }
 }
