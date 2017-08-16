@@ -27,13 +27,6 @@ main > .socials > ul li {
     margin: 0 5px;
 }
 
-main > .socials > .speaker-form {
-    font-family: 'Fira Sans', Arial, sans-serif;
-    font-weight: 300;
-    font-size: 20px;
-    @include simple-link();
-}
-
 @media (min-width: 240px) and (max-width: 590px) {
     main > .socials {
         float: none;
