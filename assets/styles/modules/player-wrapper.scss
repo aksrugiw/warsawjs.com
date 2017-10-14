@@ -11,41 +11,6 @@
     margin: 0 0 40px 0;
 }
 
-#player {
-    color: #fff;
-    background: #000;
-    width: 590px;
-    height: 332px;
-    position: relative;
-}
-
-#player a {
-    color: #f7302f;
-    text-decoration: none;
-}
-
-@media (min-width: 240px) and (max-width: 590px) {
-    #player {
-        width: auto;
-    }
-}
-
-#player video {
-    width: 100%;
-    height: 100%;
-}
-
-#player > .play-button {
-    width: 135px;
-    height: 135px;
-    margin: auto;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-}
-
 #player-wrapper .links {
     margin-top: 5px;
     text-align: right;
