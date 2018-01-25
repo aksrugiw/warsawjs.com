@@ -1,13 +1,19 @@
-.right-top-corner {
+@import "../mixin/simple-link";
+
+.promo-button {
     position: fixed;
     right: -50px;
     top: 50px;
-    background: whitesmoke;
+    background: #433e5c;
     text-align: center;
     height: 40px;
     line-height: 40px;
     width: 250px;
     transform: rotate(45deg);
+    text-decoration: none;
+    color: #fff;
 
-    @include simple-link();
+    &:hover {
+        color: #e00653
+    }
 }
