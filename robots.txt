@@ -1,1 +1,4 @@
-User-agent: *
+User-Agent: *
+Allow: /
+
+Sitemap: https://warsawjs.com/sitemap.xml

@@ -1,8 +1,21 @@
-plugins:
-  - jekyll-redirect-from
+title: WarsawJS
 
 permalink: none
 
 sass:
   sass_dir: assets/styles/
   style: compressed
+
+exclude: [
+    .idea/,
+    Gemfile,
+    Gemfile.lock,
+    package.json,
+    package-lock.json,
+    README.md,
+    CNAME,
+    node_modules/
+]
+
+plugins:
+  - jekyll-redirect-from
