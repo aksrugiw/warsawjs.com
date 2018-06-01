@@ -1,21 +1,16 @@
 title: WarsawJS
+description: We talk about JavaScript. Every month in Warsaw, Poland.
+keywords: javascript, warsaw, meetup, workshop, community
+url: 'https://warsawjs.com'
 
+safe: false
+encoding: 'utf-8'
+plugins_dir: ./_plugins/
 permalink: none
 
 sass:
   sass_dir: assets/styles/
   style: compressed
 
-exclude: [
-    .idea/,
-    Gemfile,
-    Gemfile.lock,
-    package.json,
-    package-lock.json,
-    README.md,
-    CNAME,
-    node_modules/
-]
-
-plugins:
+gems:
   - jekyll-redirect-from

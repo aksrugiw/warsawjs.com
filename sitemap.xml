@@ -1,19 +1,24 @@
 ---
 layout: nil
-rooturl: https://warsawjs.com
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
         <url>
-            <loc>{{ page.rooturl }}{{ post.url }}</loc>
+            <loc>{{ site.url }}{{ post.url }}</loc>
             <lastmod>{{ post.date | date: '%Y-%m-%d' }}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
     {% endfor %}
     <url>
-        <loc>{{ page.rooturl }}</loc>
+        <loc>{{ site.url }}/live</loc>
+        <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>{{ site.url }}</loc>
         <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>

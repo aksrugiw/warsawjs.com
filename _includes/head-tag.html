@@ -1,15 +1,19 @@
 <meta charset="utf-8"/>
 <title>{% title %}</title>
 
-<meta name="description" content="We talk about JavaScript. Every month in Warsaw, Poland."/>
-<meta name="keyword" content="javascript, warsaw, meetup, workshop, community"/>
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="{{ site.description }}"/>
+<meta name="keyword" content="{{ site.keywords }}"/>
 
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:url" content="https://warsawjs.com{{ page.url }}" />
 <meta property="og:image" content="/assets/images/logo/logo-transparent-240x240.png" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@warsawjs"/>
+<meta name="twitter:creator" content="@warsawjs"/>
+<meta name="twitter:title" content="{% title %}"/>
+<meta name="twitter:description" content="{{ site.description }}"/>
 
 <link href="https://plus.google.com/113017992366887580739" rel="publisher"/>
 
