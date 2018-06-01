@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-45/talk-webrtc-overview.html</loc>
+            <lastmod>2018-05-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-45/talk-porazka-nie-wchodzi-w-gre-czyli-o-niezawodnosci.html</loc>
+            <lastmod>2018-05-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-45/talk-graphql-in-adform-why-did-we-bother-we-have-rest.html</loc>
+            <lastmod>2018-05-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-45/invitation.html</loc>
+            <lastmod>2018-05-07</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-44/talk-jak-zapanowac-nad-wspolnym-kodem-w-wielu-projektach.html</loc>
+            <lastmod>2018-04-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-44/talk-cookies-web-storage-i-indexeddb-co-gdzie-i-jak.html</loc>
+            <lastmod>2018-04-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-44/talk-bot-cala-historia.html</loc>
+            <lastmod>2018-04-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-44/invitation.html</loc>
+            <lastmod>2018-04-11</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/talk-od-zera-do-front-end-developera.html</loc>
+            <lastmod>2018-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/talk-from-options-to-observables-a-monadic-journey.html</loc>
+            <lastmod>2018-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/talk-czego-nauczylo-nas-napisanie-10-000-testow.html</loc>
+            <lastmod>2018-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/lightning-talk-testy-sa-potrzebne-zeby-wiedziec-kiedy-nie-masz-racji.html</loc>
+            <lastmod>2018-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/lightning-talk-biggest-project-in-my-life-iplatv.html</loc>
+            <lastmod>2018-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-43/invitation.html</loc>
+            <lastmod>2018-03-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-42/talk-wtf-js.html</loc>
+            <lastmod>2018-03-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-42/talk-one-code-to-rule-them-all.html</loc>
+            <lastmod>2018-03-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-42/talk-moc-codemod-ow-javascript.html</loc>
+            <lastmod>2018-03-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-42/invitation.html</loc>
+            <lastmod>2018-02-13</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-41/talk-testowanie-angularow-1-i-2-nie-musi-byc-koszmarem.html</loc>
+            <lastmod>2018-01-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-41/talk-historia-jednej-migracji.html</loc>
+            <lastmod>2018-01-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-41/invitation.html</loc>
+            <lastmod>2018-01-08</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-40/talk-roboty-i-javascript-czyli-jak-posypac-rane-sola.html</loc>
+            <lastmod>2018-01-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-40/talk-frintjs-build-scalable-reactive-applications-with-reactjs-and-rxjs.html</loc>
+            <lastmod>2018-01-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-40/invitation.html</loc>
+            <lastmod>2017-12-11</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/talk-za-szeroko-zamknietymi-drzwiami.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/talk-vuejs-udany-mix-reactjs-i-angularjs.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/talk-seo-w-aplikacjach-spa.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/talk-clean-architecture-in-nodejs.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/lightning-talk-is-my-json-valid.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/lightning-talk-chrome-devtools-tips-tricks.html</loc>
+            <lastmod>2017-12-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-39/invitation.html</loc>
+            <lastmod>2017-11-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-38/talk-re-turning-to-development.html</loc>
+            <lastmod>2017-11-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-38/talk-javascript-w-swiecie-nowych-mediow.html</loc>
+            <lastmod>2017-11-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-38/talk-architectures-of-asynchronous-javascript-vol-1.html</loc>
+            <lastmod>2017-11-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-38/lightning-talk-dwa-slowa-o-intersection-observer.html</loc>
+            <lastmod>2017-11-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-38/invitation.html</loc>
+            <lastmod>2017-10-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-37/talk-progressive-web-apps-w-szczegolach.html</loc>
+            <lastmod>2017-09-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-37/talk-how-to-begin-a-new-project-with-react.html</loc>
+            <lastmod>2017-09-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-37/lightning-talk-a-quick-guide-to-css-in-js.html</loc>
+            <lastmod>2017-09-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-37/invitation.html</loc>
+            <lastmod>2017-09-08</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-36/talk-raspberry-pi-z-perspektywy-front-endowca.html</loc>
+            <lastmod>2017-09-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-36/talk-js-meets-blockchain.html</loc>
+            <lastmod>2017-09-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-36/talk-hype-management-in-js.html</loc>
+            <lastmod>2017-09-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-36/invitation.html</loc>
+            <lastmod>2017-08-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-35/talk-es6-for-the-lazy.html</loc>
+            <lastmod>2017-07-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-35/talk-babel-js-nie-takie-krotkie-wprowadzenie.html</loc>
+            <lastmod>2017-07-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-35/talk-angular4-redux.html</loc>
+            <lastmod>2017-07-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-35/invitation.html</loc>
+            <lastmod>2017-07-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-34/talk-trening-na-redukcje-jak-spalic-kilobajty.html</loc>
+            <lastmod>2017-07-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-34/talk-need-for-speed-optimizing-react.html</loc>
+            <lastmod>2017-07-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-34/talk-dlaczego-twoj-administrator-cie-nienawidzi.html</loc>
+            <lastmod>2017-07-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-34/invitation.html</loc>
+            <lastmod>2017-06-08</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-33/talk-komunikacja-w-swiecie-it.html</loc>
+            <lastmod>2017-06-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-33/talk-jak-pracowac-zdalnie-i-nie-zwariowac.html</loc>
+            <lastmod>2017-06-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-33/talk-how-to-make-frankensteins-monster-or-how-to-combine-nextjs-and-react-native.html</loc>
+            <lastmod>2017-06-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-33/invitation.html</loc>
+            <lastmod>2017-05-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-32/talk-solid-i-dry-w-javascript-praktyczne-przyklady.html</loc>
+            <lastmod>2017-05-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-32/talk-handling-asynchronous-actions-in-react-redux-apps.html</loc>
+            <lastmod>2017-05-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-32/invitation.html</loc>
+            <lastmod>2017-04-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-31/talk-redux-a-practical-example.html</loc>
+            <lastmod>2017-03-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-31/talk-react-na-start-informacje-w-pigulce-dla-zainteresowanych-reactjs.html</loc>
+            <lastmod>2017-03-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-31/talk-microservices-on-the-frontend.html</loc>
+            <lastmod>2017-03-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-31/invitation.html</loc>
+            <lastmod>2017-03-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-30/talk-retro-js-talk-modern-browser-communications.html</loc>
+            <lastmod>2017-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-30/talk-pogromcy-mitow-http-2-i-wydajnosc-stron-www.html</loc>
+            <lastmod>2017-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-30/talk-firebase-store-and-sync-data-with-nosql-cloud-database.html</loc>
+            <lastmod>2017-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-30/invitation.html</loc>
+            <lastmod>2017-01-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-29/talk-kontraktowanie-api-ze-swaggerem-korzysci.html</loc>
+            <lastmod>2017-01-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-29/talk-jak-stworzyc-prosta-gre-html5-w-4-lata.html</loc>
+            <lastmod>2017-01-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-29/talk-graficzny-edytor-grafu-z-typescript-svg-d3js.html</loc>
+            <lastmod>2017-01-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-29/invitation.html</loc>
+            <lastmod>2017-01-08</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-28/talk-rapid-prototyping-and-easy-testing-in-ember-with-ember-cli-mirage.html</loc>
+            <lastmod>2017-01-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-28/talk-declarative-ui-relay-is-the-way.html</loc>
+            <lastmod>2017-01-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-28/invitation.html</loc>
+            <lastmod>2016-12-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-27/talk-single-page-application-loading-time-optimization.html</loc>
+            <lastmod>2016-11-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-27/talk-graphql-in-a-nutshell.html</loc>
+            <lastmod>2016-11-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-27/invitation.html</loc>
+            <lastmod>2016-10-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-26/talk-web-components-are-we-there-yet.html</loc>
+            <lastmod>2016-10-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-26/talk-kind-of-javascript.html</loc>
+            <lastmod>2016-10-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-26/talk-angular-2-quickstart-angular-2-automated-unit-testing.html</loc>
+            <lastmod>2016-10-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-26/invitation.html</loc>
+            <lastmod>2016-10-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-25/talk-writing-your-first-amazon-lambda-using-js.html</loc>
+            <lastmod>2016-09-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-25/talk-new-collections-in-js-from-ecmascript-2015-map-set-weakmap-weakset.html</loc>
+            <lastmod>2016-09-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-25/invitation.html</loc>
+            <lastmod>2016-09-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-24/talk-react-w-swiecie-nawiasow-clojurescript-reagent-re-frame.html</loc>
+            <lastmod>2016-08-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-24/talk-nativescript-gentle-introduction.html</loc>
+            <lastmod>2016-08-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-24/talk-9-demonow-programisty-js.html</loc>
+            <lastmod>2016-08-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-24/invitation.html</loc>
+            <lastmod>2016-08-08</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-23/talk-you-dont-need-react-to-use-virtual-dom.html</loc>
+            <lastmod>2016-07-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-23/talk-soa-and-rest-tying-the-knot.html</loc>
+            <lastmod>2016-07-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-23/talk-building-bulletproof-and-maintainable-js-apps.html</loc>
+            <lastmod>2016-07-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-23/invitation-pl.html</loc>
+            <lastmod>2016-07-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-23/invitation-en.html</loc>
+            <lastmod>2016-07-06</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-22/talk-tomasz-ducin-javascript-java-typescript.html</loc>
+            <lastmod>2016-06-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-22/talk-node-like-a-pro.html</loc>
+            <lastmod>2016-06-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-22/talk-maciej-pawluk-back-to-the-future-async-js-handling.html</loc>
+            <lastmod>2016-06-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-22/invitation.html</loc>
+            <lastmod>2016-06-04</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-21/talk-webpack-co-to-jest-i-z-czym-go-jesc.html</loc>
+            <lastmod>2016-05-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-21/talk-is-there-inheritance-or-delegation.html</loc>
+            <lastmod>2016-05-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-21/talk-gsapjs-czyli-animowanie-bez-css.html</loc>
+            <lastmod>2016-05-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-21/invitation.html</loc>
+            <lastmod>2016-05-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-20/talk-puppetize-js.html</loc>
+            <lastmod>2016-04-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-20/talk-my-first-time-with-angular2.html</loc>
+            <lastmod>2016-04-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-20/talk-idea-reaktywnego-programowania.html</loc>
+            <lastmod>2016-04-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-20/talk-event-sourcing-towards-clarity.html</loc>
+            <lastmod>2016-04-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-20/invitation.html</loc>
+            <lastmod>2016-04-07</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-19/talk-painless-3d-graphics-in-browser-with-threejs.html</loc>
+            <lastmod>2016-03-16</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-19/talk-js-promises-use-cases-standards-and-libraries.html</loc>
+            <lastmod>2016-03-16</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-19/talk-class-free-oop.html</loc>
+            <lastmod>2016-03-16</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-19/invitation.html</loc>
+            <lastmod>2016-03-01</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-18/talk-universal-javascript-web-applications-with-react.html</loc>
+            <lastmod>2016-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-18/talk-model-wspolbieznosci-i-event-loop.html</loc>
+            <lastmod>2016-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-18/talk-automatyzacja-zadan.html</loc>
+            <lastmod>2016-02-22</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-18/invitation.html</loc>
+            <lastmod>2016-01-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-17/talk-reactive-javascript-all-in-meteorjs.html</loc>
+            <lastmod>2016-01-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-17/talk-exceptionidjs-prosty-lecz-nieco-kontrowersyjny-pomysl-obslugi-sytuacji-wyjatkowych-w-aplikacjach-js.html</loc>
+            <lastmod>2016-01-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-17/talk-backbone-podstawy-dobre-praktyki-rozszerzanie-mozliwosci.html</loc>
+            <lastmod>2016-01-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-17/invitation.html</loc>
+            <lastmod>2016-01-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/x-mas-2015/x-mas-2015-wishes.html</loc>
+            <lastmod>2015-12-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-16/talk-react-native-czyli-zaprogramujmy-natywna-aplikacje-mobilna-w-js.html</loc>
+            <lastmod>2015-12-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-16/talk-programowanie-wspolbiezne-w-javascript.html</loc>
+            <lastmod>2015-12-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-16/talk-do-what-you-love-automate-the-rest.html</loc>
+            <lastmod>2015-12-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-16/invitation.html</loc>
+            <lastmod>2015-12-13</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-15/talk-lodash-methods-with-practical-examples.html</loc>
+            <lastmod>2015-12-09</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-15/talk-introduction-to-linked-html-library.html</loc>
+            <lastmod>2015-12-09</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-15/talk-aplikacja-backendowa-w-nodejs-z-baza-danych-oracle.html</loc>
+            <lastmod>2015-12-09</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-15/invitation.html</loc>
+            <lastmod>2015-11-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-14/talk-enterprise-interface-architecture-seeking-scalable-design.html</loc>
+            <lastmod>2015-10-28</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-14/talk-ember-20-whats-new-and-how-to-upgrade.html</loc>
+            <lastmod>2015-10-28</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-14/talk-ecmascript-7-overview.html</loc>
+            <lastmod>2015-10-28</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-14/invitation.html</loc>
+            <lastmod>2015-10-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-13/talk-my-10-days-with-phaserjs.html</loc>
+            <lastmod>2015-09-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-13/talk-debugging-javascript-not-only-for-beginners.html</loc>
+            <lastmod>2015-09-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/birthday-1/summary.html</loc>
+            <lastmod>2015-09-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-13/invitation.html</loc>
+            <lastmod>2015-09-13</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-12/talk-nodejs-on-mobile.html</loc>
+            <lastmod>2015-08-25</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-12/talk-how-to-create-a-simple-nodejs-proxy-for-third-party-apis.html</loc>
+            <lastmod>2015-08-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-12/talk-jak-zaczac-przygode-z-javascriptem-od-zera.html</loc>
+            <lastmod>2015-08-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-12/invitation.html</loc>
+            <lastmod>2015-08-15</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-11/talk-mobile-od-czego-zaczac-pisanie-aplikacji.html</loc>
+            <lastmod>2015-08-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-11/talk-wprowadzenie-do-socket-io.html</loc>
+            <lastmod>2015-07-31</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-11/talk-angular-2-krotkie-wprowadzenie.html</loc>
+            <lastmod>2015-07-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-11/invitation.html</loc>
+            <lastmod>2015-07-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-10/talk-testy-e2e-na-przykladzie-aplikacji-angularowej-pl.html</loc>
+            <lastmod>2015-06-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-10/talk-enterprise-interface-architecture-json-schema-en.html</loc>
+            <lastmod>2015-06-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-10/invitation.html</loc>
+            <lastmod>2015-06-14</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-9/talk-whats-up-javascript.html</loc>
+            <lastmod>2015-05-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-9/talk-understanding-data-binding.html</loc>
+            <lastmod>2015-05-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-9/talk-responsive-images-the-easy-way.html</loc>
+            <lastmod>2015-05-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-9/invitation.html</loc>
+            <lastmod>2015-05-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-8/talk-user-friendly-website-with-websockets.html</loc>
+            <lastmod>2015-04-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-8/talk-react-isomorphism-and-getting-more-functional-en.html</loc>
+            <lastmod>2015-04-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-8/talk-experience-design-development-jutro-jest-teraz.html</loc>
+            <lastmod>2015-04-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-8/invitation.html</loc>
+            <lastmod>2015-04-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-7/talk-czy-50-to-duzo.html</loc>
+            <lastmod>2015-03-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-7/talk-angularjs-dyrektywy-szyte-na-miare.html</loc>
+            <lastmod>2015-03-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-7/talk-all-that-js.html</loc>
+            <lastmod>2015-03-26</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-7/invitation.html</loc>
+            <lastmod>2015-03-17</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-6/talk-tdd-in-javascript-small-workshop.html</loc>
+            <lastmod>2015-02-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-6/talk-make-your-live-easier-use-underscorejs.html</loc>
+            <lastmod>2015-02-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-6/talk-geocoding-in-applications.html</loc>
+            <lastmod>2015-02-12</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-6/invitation.html</loc>
+            <lastmod>2015-02-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-5/talk-games-development-for-smart-tv.html</loc>
+            <lastmod>2015-01-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-5/talk-functional-and-reactive-programming-techniques.html</loc>
+            <lastmod>2015-01-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-5/talk-co-potrafi-svg.html</loc>
+            <lastmod>2015-01-21</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-5/invitation.html</loc>
+            <lastmod>2015-01-13</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-4/talk-zastosowanie-javascript-nodejs-w-robotyce.html</loc>
+            <lastmod>2014-12-19</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-4/talk-what-restful-api-is-not.html</loc>
+            <lastmod>2014-12-19</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-4/talk-large-applications-routing-using-angularjs-ui-router.html</loc>
+            <lastmod>2014-12-19</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-4/invitation.html</loc>
+            <lastmod>2014-12-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-3/talk-wzorce-projektowe-dla-aplikacji-enterprise-w-nodejs.html</loc>
+            <lastmod>2014-11-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-3/talk-tworzenie-kartograficznych-wizualizacji-danych-z-wykorzystaniem-leafletjs-oraz-openstreetmap.html</loc>
+            <lastmod>2014-11-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-3/talk-angularjs-pierwsze-kroki.html</loc>
+            <lastmod>2014-11-29</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-3/invitation.html</loc>
+            <lastmod>2014-11-24</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/thanks.html</loc>
+            <lastmod>2014-11-03</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/talk-what-if-we-dont-have-api.html</loc>
+            <lastmod>2014-10-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/talk-samsung-multiscreen-let-your-mobile-talk-to-your-tv.html</loc>
+            <lastmod>2014-10-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/talk-oauth-in-js.html</loc>
+            <lastmod>2014-10-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/talk-first-steps-with-ember-cli.html</loc>
+            <lastmod>2014-10-30</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-2/invitation.html</loc>
+            <lastmod>2014-10-23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/talk-the-future-of-javascript.html</loc>
+            <lastmod>2014-10-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/talk-first-app-on-samsung-smart-tv-platform.html</loc>
+            <lastmod>2014-10-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/talk-ember-js-for-multipage-applications.html</loc>
+            <lastmod>2014-10-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/talk-commercail-openstreetmap-implementation.html</loc>
+            <lastmod>2014-10-02</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/thanks.html</loc>
+            <lastmod>2014-09-20</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://warsawjs.com/meetup-1/invitation.html</loc>
+            <lastmod>2014-09-14</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+    <url>
+        <loc>https://warsawjs.com/live</loc>
+        <lastmod>2018-06-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://warsawjs.com</loc>
+        <lastmod>2018-06-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+</urlset>
