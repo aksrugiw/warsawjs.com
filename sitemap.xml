@@ -2,6 +2,13 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>https://warsawjs.com/meetup-46/invitation.html</loc>
+            <lastmod>2018-06-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
             <loc>https://warsawjs.com/meetup-45/talk-webrtc-overview.html</loc>
             <lastmod>2018-05-23</lastmod>
             <changefreq>weekly</changefreq>
@@ -1305,13 +1312,13 @@
     
     <url>
         <loc>https://warsawjs.com/live</loc>
-        <lastmod>2018-06-01</lastmod>
+        <lastmod>2018-06-10</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
         <loc>https://warsawjs.com</loc>
-        <lastmod>2018-06-01</lastmod>
+        <lastmod>2018-06-10</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>

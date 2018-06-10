@@ -1,5 +1,10 @@
 {
-    "dependencies": {},
+    "private": true,
+    "name": "warsawjs.com",
+    "scripts": {
+        "predeploy": "jekyll clean && jekyll build",
+        "deploy": "gh-pages -d _site/"
+    },
     "devDependencies": {
         "gh-pages": "^1.2.0"
     }

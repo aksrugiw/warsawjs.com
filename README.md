@@ -6,7 +6,7 @@
 
 You must pre-install `rvm`.
 
-<kbd>Copy + paster</kbd>
+<kbd>Copy + paste</kbd>
 
 ```bash
 rvm gemsets create www.warsawjs.com
@@ -14,6 +14,15 @@ rvm use 2.2.1@www.warsawjs.com
 gem install bundler
 bundle install
 jekyll serve
+```
+
+## Deployment
+
+<kbd>Copy + paste</kbd>
+
+```
+npm install
+npm run deploy
 ```
 
 ## Sources
